@@ -8,8 +8,7 @@
 - Copiez le code du script dans le fichier que vous venez de créer.
 - Rendez le script exécutable en utilisant la commande suivante :
 `chmod +x square.sh`
-
--Exécutez le script en utilisant la commande suivante :
+- Exécutez le script en utilisant la commande suivante :
 `./square.sh`
 
 Le script sera alors exécuté et vous demandera de saisir un entier. Entrez un entier et le script affichera son carré.
