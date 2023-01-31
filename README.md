@@ -8,6 +8,7 @@
 - Copiez le code du script dans le fichier que vous venez de créer.
 - Rendez le script exécutable en utilisant la commande suivante :
 `chmod +x square.sh`
+
 -Exécutez le script en utilisant la commande suivante :
 `./square.sh`
 
